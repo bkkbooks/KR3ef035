@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ef035_000.yaml, hash: 'sha256:6e090395d37343eb08f8bd354dc1c65cf93e1cc386401e8343dac368bf135ab9'}
+  - {seq: 0, filename: KR3ef035_000.yaml, hash: 'sha256:0eb72c262141f480c196d0958dafe65de634b8245e315c55a72770c86dc8078d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef035_000.markers.yaml, hash: 'sha256:b9ec5b28d319ba2e4317db957d69bbc55e319e77258408286f7ea008225f9c8f'}
+  - {seq: 0, role: markers, filename: assets/KR3ef035_000.markers.yaml, hash: 'sha256:979437a4507d7fad34f83a0551080a7ffe31857fb2fd03abe2acbefc51c2ea8b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1011,7 +1011,4 @@ table_of_contents:
   label: 傷寒有四症相類
   type: section
   level: 1
-hash: sha256:7c3514717f31deb9fac4a94ac64bcc7ef069e79bee4dd3ee6bf1346a5fc1e95b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bd5ec978b74338e4ff6cbc491f5287ad7585c35a2b6fbf2a39a12590e656dfbc
