@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ef035/v1
 canonical_location: https://kanripo.org/bkk/KR3ef035/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 傷寒捷訣
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ef035_000.yaml, hash: 'sha256:0eb72c262141f480c196d0958dafe65de634b8245e315c55a72770c86dc8078d'}
+  - {seq: 0, filename: KR3ef035_000.yaml, hash: 'sha256:db1ab5d4f2c507261cb1481ded624606aba3dfe2802a75d83782d1f2f1459efb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef035_000.markers.yaml, hash: 'sha256:979437a4507d7fad34f83a0551080a7ffe31857fb2fd03abe2acbefc51c2ea8b'}
+  - {seq: 0, role: markers, filename: assets/KR3ef035_000.markers.yaml, hash: 'sha256:004e6569f9e5938f90c6a821778900565513080961bb620e616fa25c87a24c99'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1011,4 +1011,7 @@ table_of_contents:
   label: 傷寒有四症相類
   type: section
   level: 1
-hash: sha256:bd5ec978b74338e4ff6cbc491f5287ad7585c35a2b6fbf2a39a12590e656dfbc
+hash: sha256:7debbc6335d842194da156c144a7e93cf6db1615e7dbb047e03e7212ecf214a4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
